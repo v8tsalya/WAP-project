@@ -5,9 +5,11 @@
 This project is a web application that displays detailed Pokémon information using public APIs.
 The application fetches real-time Pokémon data and presents it in an interactive and responsive user interface.
 Each Pokémon is displayed with animated sprites, descriptions, stats, and additional details.
-Users can search, filter, and sort Pokémon using JavaScript array higher-order functions.
 
-The goal of this project is to demonstrate understanding of JavaScript, API integration using fetch, dynamic UI rendering, and responsive design.
+Users will be able to search, filter, and sort Pokémon using JavaScript array higher-order functions.
+The application will also include a team builder and a simple battle playground where users can create a Pokémon team and battle against an AI opponent.
+
+The goal of this project is to demonstrate understanding of JavaScript, API integration using fetch, dynamic UI rendering, responsive design, and interactive features.
 
 ---
 
@@ -29,6 +31,8 @@ The goal of this project is to demonstrate understanding of JavaScript, API inte
 
 ## Planned Features
 
+### Core Features
+
 * Fetch Pokémon data using fetch API
 * Display Pokémon in card layout
 * Show animated Pokémon sprites
@@ -39,9 +43,26 @@ The goal of this project is to demonstrate understanding of JavaScript, API inte
 * Click on Pokémon to view more details
 * Responsive design for mobile, tablet, and desktop
 * Dark mode / Light mode toggle
-* Favorite Pokémon using Local Storage (optional)
-* Loading indicator while fetching data (optional)
-* Pagination or infinite scroll (optional)
+* Favorite Pokémon using Local Storage
+
+### Advanced Features
+
+* Team builder to create a Pokémon team
+* Save selected Pokémon using Local Storage
+* Battle playground for team battles
+* Simple turn-based battle system
+* AI opponent with automatic move selection
+* Randomized attack and HP system
+* View battle results
+
+### Optional Bonus Features
+
+* Pagination for Pokémon list
+* Loading indicator while fetching data
+* Debounced search input
+* Infinite scroll for Pokémon list
+* Persistent theme using Local Storage
+* Progressive Web App support (optional)
 
 ---
 
@@ -52,6 +73,7 @@ The goal of this project is to demonstrate understanding of JavaScript, API inte
 * JavaScript
 * Fetch API
 * Array Higher-Order Functions (map, filter, sort, find, reduce)
+* Local Storage
 * GitHub for version control
 
 ---
@@ -64,6 +86,9 @@ The goal of this project is to demonstrate understanding of JavaScript, API inte
 
 ---
 
-## Status
+## Project Status
 
 Milestone 1 – Project setup and planning
+Milestone 2 – API integration
+Milestone 3 – Interactive features
+Milestone 4 – Deployment and final submission
