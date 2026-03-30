@@ -54,9 +54,6 @@ The goal of this project is to demonstrate understanding of JavaScript, API inte
 * AI opponent with automatic move selection
 * Randomized attack and HP system
 * View battle results
-
-### Optional Bonus Features
-
 * Pagination for Pokémon list
 * Loading indicator while fetching data
 * Debounced search input
@@ -64,25 +61,5 @@ The goal of this project is to demonstrate understanding of JavaScript, API inte
 * Persistent theme using Local Storage
 * Progressive Web App support (optional)
 
----
 
-## Technologies Used
-
-* HTML
-* CSS / Tailwind CSS (optional)
-* JavaScript
-* Fetch API
-* Array Higher-Order Functions (map, filter, sort, find, reduce)
-* Local Storage
-* GitHub for version control
-
----
-
-## Project Setup
-
-1. Clone the repository
-2. Open the project folder
-3. Open index.html in the browser
-
----
 
