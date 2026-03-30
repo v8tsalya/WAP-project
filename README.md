@@ -86,9 +86,3 @@ The goal of this project is to demonstrate understanding of JavaScript, API inte
 
 ---
 
-## Project Status
-
-Milestone 1 – Project setup and planning
-Milestone 2 – API integration
-Milestone 3 – Interactive features
-Milestone 4 – Deployment and final submission
